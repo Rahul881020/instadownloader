@@ -32,6 +32,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: black;
       opacity: 2;
+      font-size:17px;
   }
   .image-placeholder {
     margin: auto;
@@ -204,7 +205,7 @@ text-decoration: none;
       /* position: relative;
       top: 100px;
    */
-      top: 13em;
+      top: 13.1em;
       left: 0;
       right: 0;
       height: calc(100% - 10em);
