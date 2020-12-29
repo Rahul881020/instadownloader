@@ -134,7 +134,7 @@ text-decoration: none;
     transition: all 500ms ease;
   }
   
-  @media (min-width: 420px) {
+  @media (min-width: 499px) {
     input {
       max-width: 50%;
     }
